@@ -13,6 +13,6 @@ I'm a Software Engineer and FrontEnd developer currently seeking roles in fronte
 - 🌱 I’m currently learning JavaScript, Reactjs, and Nodejs
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer or UI Engineer, Backend development  (Intern or Junior level).
-- 📫 You can [view my portfolio](https://portfolio-tesleemofx.vercel.app/) and contact me by emailing [here](mailto:oladepotesleem5@gmail.com) or on [linkedin](https://linkedin.com/tesleemoladepo) .
+- 📫 You can [view my portfolio](https://portfolio-tesleemofx.vercel.app/) and contact me by emailing [here](mailto:oladepotesleem5@gmail.com) or on [linkedin](https://www.linkedin.com/in/tesleemoladepo/) .
 
 
